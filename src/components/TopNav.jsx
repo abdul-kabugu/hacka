@@ -55,7 +55,7 @@ export default function TopNav() {
   return (
     <Box w="100%" h="60px" borderBottom="1px solid " borderColor="gray.300" display='flex' alignItems="center">
      <Container>
-     <Link to="/"> <Text fontSize='lg' fontWeight='semibold'>Momento</Text>  </Link>
+     <Link to="/"> <Text fontSize='lg' fontWeight='semibold'>Changed logo</Text>  </Link>
      </Container>
       <Hide below='lg'>
       <Container>
